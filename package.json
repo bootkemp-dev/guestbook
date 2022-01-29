@@ -1,0 +1,19 @@
+{
+  "name": "guestbook",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bootkemp-dev/guestbook.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bootkemp-dev/guestbook/issues"
+  },
+  "homepage": "https://github.com/bootkemp-dev/guestbook#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.2"
+  }
+}
