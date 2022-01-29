@@ -16,6 +16,11 @@
     <main class="container">
       <h1>Guestbook</h1>
 
+      <form action="form" method="post">
+        <input name="text" required />
+        <input type="submit" value="Submit" />
+      </form>
+
       <ul>
         <% for (const entry of entries) { %>
 
