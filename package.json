@@ -1,0 +1,15 @@
+{
+  "name": "guestbook",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bootkemp-dev/guestbook.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bootkemp-dev/guestbook/issues"
+  },
+  "homepage": "https://github.com/bootkemp-dev/guestbook#readme"
+}
